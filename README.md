@@ -1,17 +1,11 @@
-# APIOAK
+# Welcome to APIOAK tutorial documentation
+  
+### Document reading tutorial
 
-* APIOAK 是一个简单易用、lua语言开发的API网关，与 OpenResty 完美结合，让你的服务扩展更强，扩展的开发更简单，接口格式更统一，接口的管理更简单更可控。
+For the current use of the document, it is recommended to build a local gitbook reading effect will be better, in order not to affect the mood of our friends who read the document, Here we also prepared a special gift for you, That is [[the gitbook local installation tutorial]](https://github.com/apioak/apioak-document/blob/master/en_US/basic-information/gitbook-local-building.md)<br/>
 
-* APIOAK 所谓的简单易用就是：「最大程度节省使用者时间，界面简单明了，操作方便，对于想要使用的功能一目了然」。这也是APIOAK设计的初衷。所以 操作性上经过 反复反复又反复 的采访众多程序猿（使用习惯），产品狗（用户使用体验），了解其使用习惯和操作惯性来确定出了一套适合大部分人的操作界面。
+The installation of gitbook is very simple. All the steps are described in our documents, so you can safely install it. It only takes a few steps to complete the installation and successfully build the local service.<br/>
 
-* APIOAK 安装和启动也是相当简单，相当容易的，相对于一些复杂的安装，该网关的安装可谓是小菜一碟了。只要动动小手指即可将网关安装并启动，就可以直接使用了。
-
-* APIOAK 增加了不少细节的处理，这也是 APIOAK 比较突出的亮点之一，所以在文档的阅读过程中要注意一些细节部分的体现。了解了全部的操作教程后会让你的使用会更得心应手。
-
-```
-如果你是纯小白，么关系，我们想到了，教程中可能会出现你不太理解的名词，咋办？名词解释咱们有。
-如果你不是纯小白，么关系，我们也想到了，我们专注于简单上手，操作易用，入门门槛低的网关设计，放心使用即可。
-如果你是大牛，也么关系，我们也想到了，我们也有做的不够好的，欢迎你来指导我们更上一层楼。
-```
+After building a local service, reading the document will have a directory and search, there will be a lot of surprises in the document, dry goods are full, details are full.
 
 
