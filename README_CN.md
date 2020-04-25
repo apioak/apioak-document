@@ -1,5 +1,7 @@
 # 欢迎访问 APIOAK 使用教程文档
 
+[English](README.md) | [简体中文](README_CN.md)
+
 ## 文档的阅读教程
 
 目前文档的使用，建议搭建 gitbook 阅读效果会更佳，为了不影响咱们的看文档小伙伴的心情呢，咱们特别准备了一份大礼，那就是 [gitbook安装文档](https://github.com/apioak/apioak-document/blob/master/zh_CN/basic-information/gitbook-local-building.md)，嘎嘎嘎嘎嘎~~~（别打脸就行！！！）。<br/>

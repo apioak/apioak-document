@@ -1,5 +1,7 @@
 # Welcome to APIOAK tutorial documentation
-  
+
+[简体中文](README_CN.md) | [English](README.md)
+
 ### Document reading tutorial
 
 For the current use of the document, it is recommended to build a local gitbook reading effect will be better, in order not to affect the mood of our friends who read the document, Here we also prepared a special gift for you, That is [[the gitbook local installation tutorial]](https://github.com/apioak/apioak-document/blob/master/en_US/basic-information/gitbook-local-building.md)<br/>
